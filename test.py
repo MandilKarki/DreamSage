@@ -1,3 +1,6 @@
+https://msty.app/
+https://github.com/pdichone/ollama-fundamentals/blob/main/pdf-rag.py
+
 https://www.promptingguide.ai/techniques/tot
 
 microsoft/Phi-3.5-mini-instruct
